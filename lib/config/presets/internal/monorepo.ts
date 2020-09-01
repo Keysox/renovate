@@ -21,6 +21,7 @@ const repoGroups = {
   'azure azure-sdk-for-net': 'https://github.com/Azure/azure-sdk-for-net',
   'azure azure-storage-net': 'https://github.com/Azure/azure-storage-net',
   'bugsnag-js': 'https://github.com/bugsnag/bugsnag-js',
+  'canvas-kit': 'https://github.com/Workday/canvas-kit',
   'date-io': 'https://github.com/dmtrKovalenko/date-io',
   'devextreme-reactive': 'https://github.com/DevExpress/devextreme-reactive',
   'electron-forge': 'https://github.com/electron-userland/electron-forge',
